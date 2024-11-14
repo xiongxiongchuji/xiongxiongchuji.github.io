@@ -16,7 +16,7 @@ I am interested in various topics related to artificial intelligence and compute
 * \[2022/09\]Be a undergraduate student at SZU!
 * \[2023/05\]Through the selection,successfully entered the Electronic Information Engineering advanced class belongs to Ding Wenhua（Academician of Chinese Academy of Engineering）
 * \[2024/08\]A paper < A Diffusion-Based Approach for Restoring Face-swapped Images >accepted to [APSIPA ASC 2024](http://8.218.206.158/welcome.html)
-* \[2024/10\]It is my honor to be a remote intern of Peking University(The supervisor:[Hao Tang](https://ha0tang.github.io/))
+* \[2024/10\]It is my honor to be a remote intern of Peking University
 
 If you want to get in touch with me and exchange ideas, feel free to email me! Email Github
 [Email](xiongxiongchuji123@gmail.com)
